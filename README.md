@@ -1,0 +1,1 @@
+Built a real-time video chat application using WebRTC and Socket.io with a Node.js server and browser-based JavaScript. Utilized WebRTC’s RTCPeerConnection for seamless peer-to-peer audio and video communication, and Socket.io for signaling and real-time messaging, enhancing remote collaboration capabilities and providing a robust user experience.
